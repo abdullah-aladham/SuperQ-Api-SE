@@ -1,6 +1,6 @@
 <h1>SuperQ-Api-SE v2.0</h1>
 <div>
-  <p>Welcome to <code>SuperQualityApi Testing SE v2.0</code> Repo which is about testing SuperQualityApi Using java Selenium <code>v3.141.59</code><br>
+  <p>Welcome to <code>SuperQualityApi Testing SE v2.0</code> Repo which is about testing SuperQualityApi Using java Selenium <code>v4.16.1</code><br>
     and <code>TestNG</code> framework
   </p>
   <span>To review and Run Test cases in the Repo you need the following</span>
