@@ -5,7 +5,7 @@
   </p>
   <span>To review and Run Test cases in the Repo you need the following</span>
   <ul>
-    <li>Cloning the repo by the following code <code>git clone https://github.com/abdullah-aladham/super-quality-api-testing-SE.git</code></li>
+    <li>Cloning the repo by the following code <code>git clone https://github.com/abdullah-aladham/SuperQ-Api-SE.git</code></li>
     <li><code>JavaSE-21</code> being installed on your machine</li>
     <li>Chrome selenium web driver</li>
   <li><code>Eclipse IDE</code></li>
