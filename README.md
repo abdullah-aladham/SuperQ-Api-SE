@@ -3,7 +3,7 @@
   <p>Welcome to <code>SuperQualityApi Testing SE v2.0</code> Repo which is about testing SuperQualityApi Using java Selenium <code>v4.16.1</code><br>
     and <code>TestNG</code> framework
   </p>
-  <span>To review and Run Test cases in the Repo you need the following</span>
+  <span>To review and Run Test cases in the Repo you need the following:</span>
   <ul>
     <li>Cloning the repo by the following code <code>git clone https://github.com/abdullah-aladham/SuperQ-Api-SE.git</code></li>
     <li><code>JavaSE-21</code> being installed on your machine</li>
